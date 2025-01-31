@@ -27,8 +27,9 @@ Estudiante de derecho con conocimientos ciencias sociales, filosofía y programa
 
 # Experiencias
 ## IA Training Jun 2024
-Scale IA, Free Lancer
-● Trabajé como freelancer el proyecto Flamingo IA, para la empresa Outlier.
+● Scale IA, Free Lancer
+
+Trabajé como freelancer el proyecto Flamingo IA, para la empresa Outlier.
 
 ## Data Scientist	
 
