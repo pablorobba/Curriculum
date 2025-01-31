@@ -29,13 +29,13 @@ Estudiante de derecho con conocimientos ciencias sociales, filosofía y programa
 * Bulba Code Extensions Code vs Code. Scale IA V2 2024.
 
 # Experiencia
-● Scale IA, Free Lancer. 2024
+* Scale IA, Free Lancer. 2024
 
-Trabajé como freelancer entrenando una inteligencia artificial, en el proyecto Flamingo, para la empresa Outlier.
+  Trabajé como freelancer entrenando una inteligencia artificial, en el proyecto Flamingo, para la empresa Outlier.
 
-● Henry, Contrato de Formación. Jul 2023 - Dic 2023
+* Henry, Contrato de Formación. Jul 2023 - Dic 2023
 
-Más de 700 horas de trabajo intensivo en el área de ciencias y análisis de datos.
+  Más de 700 horas de trabajo intensivo en el área de ciencias y análisis de datos.
 
 
 # Tecnologías
