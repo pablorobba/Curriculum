@@ -22,8 +22,11 @@ Estudiante de derecho con conocimientos ciencias sociales, filosofía y programa
 * Bachiller en Ciencias Sociales. Instituto Monseñor Nicolás Esandi. 2011 - 2017.
 
 # Educación Complementaria
-* Primeros pasos del desarrollo Frontend. Ticmas. 2023.
 * Procesamiento de datos con Python. Ticmas. 2020.
+* Primeros pasos del desarrollo Frontend. Ticmas. 2023.
+* Coders University: Intro to Prompts and Responses. Scale IA 2024
+* Flamingo Coding Intro Course Revamp. Scale IA 2024.
+* Bulba Code Extensions Code vs Code. Scale IA V2 2024.
 
 # Experiencia
 ● Scale IA, Free Lancer. 2024
