@@ -25,11 +25,11 @@ Estudiante de derecho con conocimientos ciencias sociales, filosofía y programa
 * Primeros pasos del desarrollo Frontend. Ticmas. 2023.
 * Procesamiento de datos con Python. Ticmas. 2020.
 
-# Experiencias
-## IA Training Jun 2024
-● Scale IA, Free Lancer
+# Experiencia
+## IA Training
+● Scale IA, Free Lancer. 2024
 
-Trabajé como freelancer el proyecto Flamingo IA, para la empresa Outlier.
+Trabajé como freelancer entrenando una inteligencia artificial, en el proyecto Flamingo, para la empresa Outlier.
 
 ## Data Scientist	
 
