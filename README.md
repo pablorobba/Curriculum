@@ -1,7 +1,5 @@
 <div style="display: flex; flex-direction: row-reverse;">
-  <div style="flex: 1;">
-    <img src="img-readme/avatar.png" alt="Avatar" style="border-radius: 50%;" width="150" height="150">
-  </div>
+
   <div style="flex: 2;">
     <h1>Pablo Robba</h1>
     <p>Buenos Aires<br>(+54) 11 54245985<br>pablorobba1998@outlook.com</p>
