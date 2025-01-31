@@ -26,12 +26,9 @@ Estudiante de derecho con conocimientos ciencias sociales, filosofía y programa
 * Procesamiento de datos con Python. Ticmas. 2020.
 
 # Experiencia
-## IA Training
 ● Scale IA, Free Lancer. 2024
 
 Trabajé como freelancer entrenando una inteligencia artificial, en el proyecto Flamingo, para la empresa Outlier.
-
-## Data Scientist	
 
 ● Henry, Contrato de Formación. Jul 2023 - Dic 2023
 
