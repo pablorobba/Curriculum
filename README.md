@@ -32,7 +32,7 @@ Scale IA, Free Lancer
 
 ## Data Scientist	
 
->Henry, Contrato de Formación. Jul 2023 - Dic 2023
+● Henry, Contrato de Formación. Jul 2023 - Dic 2023
 
 Más de 700 horas de trabajo intensivo en el área de ciencias y análisis de datos.
 
