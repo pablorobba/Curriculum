@@ -13,7 +13,7 @@
 
 
 # Sobre mi
-Estudiante de derecho con conocimientos ciencias sociales, filosofía y programación que me ayudaron a: Liderar y trabajar en equipo, idear y construir soluciones a problemas complejos y desarrollar un pensamiento analítico. Conocimientos derecho civil, obligaciones, derecho constitucional, derecho público provincial  y municipal, contratos. En informática: manejo de Excel, Word, Python, SQL, tableros en PowerBI. Nivel de Inglés: B2 Avanzado.
+Estudiante de derecho con conocimientos ciencias sociales, filosofía y programación que me ayudaron a: Liderar y trabajar en equipo, idear y construir soluciones a problemas complejos y desarrollar un pensamiento analítico. Conocimientos derecho civil, obligaciones, derecho constitucional, derecho público provincial  y municipal, contratos. Manejo de plataformas para carga de información de las causas (LEX, SCBA, MEV, PJN, etc.) En informática: manejo de Excel, Word, Python, SQL, tableros en PowerBI. Nivel de Inglés: B2 Avanzado.
 
 # Educación Profesional
 * Licenciatura en Derecho. 2020 – actualidad. Universidad Nacional de La Plata. Tercer año. 
