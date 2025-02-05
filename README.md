@@ -31,7 +31,7 @@ Estudiante de derecho con conocimientos en ciencias sociales, filosofía y progr
 # Experiencia
 * Scale IA, Free Lancer. 2024
 
-   Trabajé como freelancer entrenando una inteligencia artificial, en el proyecto Flamingo, para la empresa Outlier.
+   Trabajé como freelancer entrenando una inteligencia artificial, en el proyecto Flamingo, para la empresa Scale IA.
 
 * Henry, Contrato de Formación. Jul 2023 - Dic 2023
 
